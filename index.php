@@ -147,12 +147,6 @@
                     <div class="embed-responsive collapse" id="trailer2">
                         <div class="youtube-player" data-id="Nv0qHyEEZCQ"></div>
                     </div>
-                    <div class="embed-responsive embed-responsive-16by9 collapse" id="trailer2">
-                        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/Nv0qHyEEZCQ"
-                                allowfullscreen
-                                loading="lazy"
-                        ></iframe>
-                    </div>
                 </div>
             </div>
             <br>
@@ -209,11 +203,8 @@
                             </span>
                         </a>
                     </div>
-                    <div class="embed-responsive embed-responsive-16by9 collapse" id="trailer3">
-                        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/NCGGG_NvE4g"
-                                allowfullscreen
-                                loading="lazy"
-                        ></iframe>
+                    <div class="embed-responsive collapse" id="trailer3">
+                        <div class="youtube-player" data-id="NCGGG_NvE4g"></div>
                     </div>
                 </div>
             </div>
@@ -274,11 +265,8 @@
                             </span>
                         </a>
                     </div>
-                    <div class="embed-responsive embed-responsive-16by9 collapse" id="trailer4">
-                        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/5YnGhW4UEhc"
-                                allowfullscreen
-                                loading="lazy"
-                        ></iframe>
+                    <div class="embed-responsive collapse" id="trailer4">
+                        <div class="youtube-player" data-id="5YnGhW4UEhc"></div>
                     </div>
                 </div>
             </div>
@@ -339,11 +327,8 @@
                             </span>
                         </a>
                     </div>
-                    <div class="embed-responsive embed-responsive-16by9 collapse" id="trailer5">
-                        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/5YnGhW4UEhc"
-                                allowfullscreen
-                                loading="lazy"
-                        ></iframe>
+                    <div class="embed-responsive collapse" id="trailer5">
+                        <div class="youtube-player" data-id="CRRlbK5w8AE"></div>
                     </div>
                 </div>
             </div>
@@ -403,11 +388,8 @@
                             </span>
                         </a>
                     </div>
-                    <div class="embed-responsive embed-responsive-16by9 collapse" id="trailer6">
-                        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/5YnGhW4UEhc"
-                                allowfullscreen
-                                loading="lazy"
-                        ></iframe>
+                    <div class="embed-responsive collapse" id="trailer6">
+                        <div class="youtube-player" data-id="5ftmr17M-a4"></div>
                     </div>
                 </div>
             </div>
@@ -469,11 +451,8 @@
                             </span>
                         </a>
                     </div>
-                    <div class="embed-responsive embed-responsive-16by9 collapse" id="trailer7">
-                        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/5YnGhW4UEhc"
-                                allowfullscreen
-                                loading="lazy"
-                        ></iframe>
+                    <div class="embed-responsive collapse" id="trailer7">
+                        <div class="youtube-player" data-id="07pPmCfKi3U"></div>
                     </div>
                 </div>
             </div>
@@ -537,11 +516,8 @@
                             </span>
                         </a>
                     </div>
-                    <div class="embed-responsive embed-responsive-16by9 collapse" id="trailer8">
-                        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/5YnGhW4UEhc"
-                                allowfullscreen
-                                loading="lazy"
-                        ></iframe>
+                    <div class="embed-responsive collapse" id="trailer8">
+                        <div class="youtube-player" data-id="-YvWR3Bds0A"></div>
                     </div>
                 </div>
             </div>
@@ -555,7 +531,7 @@
                      class="card-img-top" alt="Starship Troopers">
                 <button class="card-body btn expand" type="button" data-toggle="collapse" data-target="#minfo9"
                         aria-expanded="false" aria-controls="minfo9">
-                    More Info
+                    WOULD YOU LIKE TO KNOW MORE?
                 </button>
                 <div class="collapse text-center" id="minfo9">
                     <p class="card-text mt-3 mx-3">Set in the future, the story follows a young soldier named Johnny
@@ -602,11 +578,8 @@
                             </span>
                         </a>
                     </div>
-                    <div class="embed-responsive embed-responsive-16by9 collapse" id="trailer9">
-                        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/5YnGhW4UEhc"
-                                allowfullscreen
-                                loading="lazy"
-                        ></iframe>
+                    <div class="embed-responsive collapse" id="trailer9">
+                        <div class="youtube-player" data-id="Y07I_KER5fE"></div>
                     </div>
                 </div>
             </div>
@@ -666,11 +639,8 @@
                             </span>
                         </a>
                     </div>
-                    <div class="embed-responsive embed-responsive-16by9 collapse" id="trailer10">
-                        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/5YnGhW4UEhc"
-                                allowfullscreen
-                                loading="lazy"
-                        ></iframe>
+                    <div class="embed-responsive collapse" id="trailer10">
+                        <div class="youtube-player" data-id="zAGVQLHvwOY"></div>
                     </div>
                 </div>
             </div>
@@ -721,11 +691,8 @@
                             </span>
                         </a>
                     </div>
-                    <div class="embed-responsive embed-responsive-16by9 collapse" id="extrailer">
-                        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/5YnGhW4UEhc"
-                                allowfullscreen
-                                loading="lazy">
-                        </iframe>
+                    <div class="embed-responsive collapse" id="extrailer">
+                        <div class="youtube-player" data-id="XKSQmYUaIyE"></div>
                     </div>
                 </div>
                 <!--CARD 2-->
@@ -767,11 +734,8 @@
                             </span>
                         </a>
                     </div>
-                    <div class="embed-responsive embed-responsive-16by9 collapse" id="extrailer2">
-                        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/5YnGhW4UEhc"
-                                allowfullscreen
-                                loading="lazy"
-                        ></iframe>
+                    <div class="embed-responsive collapse" id="extrailer2">
+                        <div class="youtube-player" data-id="ckvDo2JHB7o"></div>
                     </div>
                 </div>
                 <!--CARD 3-->
@@ -815,11 +779,8 @@
                             </span>
                         </a>
                     </div>
-                    <div class="embed-responsive embed-responsive-16by9 collapse" id="extrailer3">
-                        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/5YnGhW4UEhc"
-                                allowfullscreen
-                                loading="lazy"
-                        ></iframe>
+                    <div class="embed-responsive collapse" id="extrailer3">
+                        <div class="youtube-player" data-id="6hDkhw5Wkas"></div>
                     </div>
                 </div>
             </div>
@@ -865,11 +826,8 @@
                             </span>
                         </a>
                     </div>
-                    <div class="embed-responsive embed-responsive-16by9 collapse" id="extrailer4">
-                        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/5YnGhW4UEhc"
-                                allowfullscreen
-                                loading="lazy"
-                        ></iframe>
+                    <div class="embed-responsive collapse" id="extrailer4">
+                        <div class="youtube-player" data-id="_PFcOeM_Usk"></div>
                     </div>
                 </div>
                 <!--CARD 5-->
@@ -914,11 +872,8 @@
                             </span>
                         </a>
                     </div>
-                    <div class="embed-responsive embed-responsive-16by9 collapse" id="extrailer5">
-                        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/5YnGhW4UEhc"
-                                allowfullscreen
-                                loading="lazy"
-                        ></iframe>
+                    <div class="embed-responsive collapse" id="extrailer5">
+                        <div class="youtube-player" data-id="X2hBYGwKh3I"></div>
                     </div>
                 </div>
                 <!--CARD 6-->
@@ -962,11 +917,8 @@
                             </span>
                         </a>
                     </div>
-                    <div class="embed-responsive embed-responsive-16by9 collapse" id="extrailer6">
-                        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/5YnGhW4UEhc"
-                                allowfullscreen
-                                loading="lazy"
-                        ></iframe>
+                    <div class="embed-responsive collapse" id="extrailer6">
+                        <div class="youtube-player" data-id="k64P4l2Wmeg"></div>
                     </div>
                 </div>
                 <!--CARD 7-->
@@ -1007,11 +959,8 @@
                             </span>
                         </a>
                     </div>
-                    <div class="embed-responsive embed-responsive-16by9 collapse" id="extrailer7">
-                        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/5YnGhW4UEhc"
-                                allowfullscreen
-                                loading="lazy"
-                        ></iframe>
+                    <div class="embed-responsive collapse" id="extrailer7">
+                        <div class="youtube-player" data-id="GncQtURdcE4"></div>
                     </div>
                 </div>
             </div>
@@ -1057,11 +1006,8 @@
                             </span>
                         </a>
                     </div>
-                    <div class="embed-responsive embed-responsive-16by9 collapse" id="extrailer8">
-                        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/5YnGhW4UEhc"
-                                allowfullscreen
-                                loading="lazy"
-                        ></iframe>
+                    <div class="embed-responsive collapse" id="extrailer8">
+                        <div class="youtube-player" data-id="H5XftzMJHr4"></div>
                     </div>
                 </div>
                 <!--CARD 9-->
@@ -1102,11 +1048,8 @@
                             </span>
                         </a>
                     </div>
-                    <div class="embed-responsive embed-responsive-16by9 collapse" id="extrailer9">
-                        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/5YnGhW4UEhc"
-                                allowfullscreen
-                                loading="lazy"
-                        ></iframe>
+                    <div class="embed-responsive collapse" id="extrailer9">
+                        <div class="youtube-player" data-id="2HkjrJ6IK5E"></div>
                     </div>
                 </div>
                 <!--CARD 10-->
@@ -1151,11 +1094,8 @@
                             </span>
                         </a>
                     </div>
-                    <div class="embed-responsive embed-responsive-16by9 collapse" id="extrailer10">
-                        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/5YnGhW4UEhc"
-                                allowfullscreen
-                                loading="lazy"
-                        ></iframe>
+                    <div class="embed-responsive collapse" id="extrailer10">
+                        <div class="youtube-player" data-id="LjLamj-b0I8"></div>
                     </div>
                 </div>
                 <!--CARD 11-->
@@ -1198,11 +1138,8 @@
                             </span>
                         </a>
                     </div>
-                    <div class="embed-responsive embed-responsive-16by9 collapse" id="extrailer11">
-                        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/LIfcaZ4pC-4"
-                                allowfullscreen
-                                loading="lazy"
-                        ></iframe>
+                    <div class="embed-responsive collapse" id="extrailer11">
+                        <div class="youtube-player" data-id="LIfcaZ4pC-4"></div>
                     </div>
                 </div>
                 <!--CARD 12-->
@@ -1246,11 +1183,8 @@
                             </span>
                         </a>
                     </div>
-                    <div class="embed-responsive embed-responsive-16by9 collapse" id="extrailer12">
-                        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/5YnGhW4UEhc"
-                                allowfullscreen
-                                loading="lazy"
-                        ></iframe>
+                    <div class="embed-responsive collapse" id="extrailer12">
+                        <div class="youtube-player" data-id="qvsgGtivCgs"></div>
                     </div>
                 </div>
             </div>
