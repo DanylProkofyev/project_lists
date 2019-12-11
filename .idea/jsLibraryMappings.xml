@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptLibraryMappings">
+    <file url="PROJECT" libraries="{CSSPlugin, TimelineLite, TweenLite, TweenMax, aos, imagesloaded.pkgd, jquery-3.3.1.slim, lozad, popper, preload-it}" />
+  </component>
+</project>
