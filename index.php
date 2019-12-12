@@ -19,6 +19,7 @@
     <div class="loader-section section-left"></div>
     <div class="loader-section section-right"></div>
 </div>
+<a href="#" class="scrollToTop"><i class="far fa-arrow-alt-circle-up"></i></a>
 <div class="container-fluid">
     <div class="row bg">
         <div class="col-sm-3"></div>
@@ -79,12 +80,6 @@
                     <div class="embed-responsive collapse" id="trailer">
                         <div class="youtube-player" data-id="6lM3NPeEG24"></div>
                     </div>
-                    <!--                    <div class="embed-responsive embed-responsive-16by9 collapse" id="trailer">-->
-                    <!--                        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/6lM3NPeEG24?rel=0"-->
-                    <!--                                allowfullscreen-->
-                    <!--                                loading="lazy"-->
-                    <!--                        ></iframe>-->
-                    <!--                    </div>-->
                 </div>
             </div>
             <br>
@@ -288,17 +283,17 @@
                         is the target for a newer, more deadly terminator. Once again, the resistance has managed to
                         send a protector back to attempt to save John and his mother Sarah.</p>
                     <div class="rating">
-                        <img src="media/chainsaw.svg" alt="chainsaw" loading="lazy">
-                        <img src="media/chainsaw.svg" alt="chainsaw" loading="lazy">
-                        <img src="media/chainsaw.svg" alt="chainsaw" loading="lazy">
-                        <img src="media/chainsaw%20(1).svg" alt="chainsaw" loading="lazy">
-                        <img src="media/chainsaw%20(1).svg" alt="chainsaw" loading="lazy">
+                        <img src="media/cyborg.svg" alt="chainsaw" loading="lazy">
+                        <img src="media/cyborg.svg" alt="chainsaw" loading="lazy">
+                        <img src="media/cyborg.svg" alt="chainsaw" loading="lazy">
+                        <img src="media/cyborg.svg" alt="chainsaw" loading="lazy">
+                        <img src="media/cyborg.svg" alt="chainsaw" loading="lazy">
                         <br>
-                        <img src="media/knife.svg" alt="knife" loading="lazy">
-                        <img src="media/knife.svg" alt="knife" loading="lazy">
-                        <img src="media/knife.svg" alt="knife" loading="lazy">
-                        <img src="media/knife.svg" alt="knife" loading="lazy">
-                        <img src="media/knife.svg" alt="knife" loading="lazy">
+                        <img src="media/shotgun.svg" alt="shotgun" loading="lazy">
+                        <img src="media/shotgun.svg" alt="shotgun" loading="lazy">
+                        <img src="media/shotgun.svg" alt="shotgun" loading="lazy">
+                        <img src="media/shotgun.svg" alt="shotgun" loading="lazy">
+                        <img src="media/shotgun.svg" alt="shotgun" loading="lazy">
 
                     </div>
                     <div class="mb-1 mr-1 btn-group links" role="group" aria-label="button group">
@@ -349,17 +344,17 @@
                         that assumes the appearance of the people it kills.
                     </p>
                     <div class="rating">
-                        <img src="media/chainsaw.svg" alt="chainsaw" loading="lazy">
-                        <img src="media/chainsaw.svg" alt="chainsaw" loading="lazy">
-                        <img src="media/chainsaw.svg" alt="chainsaw" loading="lazy">
-                        <img src="media/chainsaw%20(1).svg" alt="chainsaw" loading="lazy">
-                        <img src="media/chainsaw%20(1).svg" alt="chainsaw" loading="lazy">
+                        <img src="media/whisky.svg" alt="chainsaw" loading="lazy">
+                        <img src="media/whisky.svg" alt="chainsaw" loading="lazy">
+                        <img src="media/whisky.svg" alt="chainsaw" loading="lazy">
+                        <img src="media/whisky.svg" alt="chainsaw" loading="lazy">
+                        <img src="media/whisky.svg" alt="chainsaw" loading="lazy">
                         <br>
-                        <img src="media/knife.svg" alt="knife" loading="lazy">
-                        <img src="media/knife.svg" alt="knife" loading="lazy">
-                        <img src="media/knife.svg" alt="knife" loading="lazy">
-                        <img src="media/knife.svg" alt="knife" loading="lazy">
-                        <img src="media/knife.svg" alt="knife" loading="lazy">
+                        <img src="media/meeting.svg" alt="knife" loading="lazy">
+                        <img src="media/meeting.svg" alt="knife" loading="lazy">
+                        <img src="media/meeting.svg" alt="knife" loading="lazy">
+                        <img src="media/meeting.svg" alt="knife" loading="lazy">
+                        <img src="media/meeting.svg" alt="knife" loading="lazy">
 
                     </div>
                     <div class="mb-1 mr-1 btn-group links" role="group" aria-label="button group">
@@ -412,17 +407,17 @@
                         the plane with the help of a glue-sniffing air traffic controller and Striker's vengeful former
                         Air Force captain, who must both talk him down.</p>
                     <div class="rating">
-                        <img src="media/chainsaw.svg" alt="chainsaw" loading="lazy">
-                        <img src="media/chainsaw.svg" alt="chainsaw" loading="lazy">
-                        <img src="media/chainsaw.svg" alt="chainsaw" loading="lazy">
-                        <img src="media/chainsaw%20(1).svg" alt="chainsaw" loading="lazy">
-                        <img src="media/chainsaw%20(1).svg" alt="chainsaw" loading="lazy">
+                        <img src="media/air-freight.svg" alt="chainsaw" loading="lazy">
+                        <img src="media/air-freight.svg" alt="chainsaw" loading="lazy">
+                        <img src="media/air-freight.svg" alt="chainsaw" loading="lazy">
+                        <img src="media/air-freight.svg" alt="chainsaw" loading="lazy">
+                        <img src="media/air-freight.svg" alt="chainsaw" loading="lazy">
                         <br>
-                        <img src="media/knife.svg" alt="knife" loading="lazy">
-                        <img src="media/knife.svg" alt="knife" loading="lazy">
-                        <img src="media/knife.svg" alt="knife" loading="lazy">
-                        <img src="media/knife.svg" alt="knife" loading="lazy">
-                        <img src="media/knife.svg" alt="knife" loading="lazy">
+                        <img src="media/joke.svg" alt="top kek" loading="lazy">
+                        <img src="media/joke.svg" alt="top kek" loading="lazy">
+                        <img src="media/joke.svg" alt="top kek" loading="lazy">
+                        <img src="media/joke.svg" alt="top kek" loading="lazy">
+                        <img src="media/joke.svg" alt="top kek" loading="lazy">
 
                     </div>
                     <div class="mb-1 mr-1 btn-group links" role="group" aria-label="button group">
@@ -477,11 +472,11 @@
                         assigned to the case.
                     </p>
                     <div class="rating">
-                        <img src="media/chainsaw.svg" alt="chainsaw" loading="lazy">
-                        <img src="media/chainsaw.svg" alt="chainsaw" loading="lazy">
-                        <img src="media/chainsaw.svg" alt="chainsaw" loading="lazy">
-                        <img src="media/chainsaw%20(1).svg" alt="chainsaw" loading="lazy">
-                        <img src="media/chainsaw%20(1).svg" alt="chainsaw" loading="lazy">
+                        <img src="media/police-line.svg" alt="chainsaw" loading="lazy">
+                        <img src="media/police-line.svg" alt="chainsaw" loading="lazy">
+                        <img src="media/police-line.svg" alt="chainsaw" loading="lazy">
+                        <img src="media/police-line.svg" alt="chainsaw" loading="lazy">
+                        <img src="media/police-line.svg" alt="chainsaw" loading="lazy">
                         <br>
                         <img src="media/knife.svg" alt="knife" loading="lazy">
                         <img src="media/knife.svg" alt="knife" loading="lazy">
@@ -539,18 +534,17 @@
                         non-commissioned officer and finally to officer against the backdrop of an interstellar war
                         between mankind and an arachnoid species known as "the Bugs".</p>
                     <div class="rating">
-                        <img src="media/chainsaw.svg" alt="chainsaw" loading="lazy">
-                        <img src="media/chainsaw.svg" alt="chainsaw" loading="lazy">
-                        <img src="media/chainsaw.svg" alt="chainsaw" loading="lazy">
-                        <img src="media/chainsaw%20(1).svg" alt="chainsaw" loading="lazy">
-                        <img src="media/chainsaw%20(1).svg" alt="chainsaw" loading="lazy">
+                        <img src="media/bug.svg" alt="chainsaw" loading="lazy">
+                        <img src="media/bug.svg" alt="chainsaw" loading="lazy">
+                        <img src="media/bug.svg" alt="chainsaw" loading="lazy">
+                        <img src="media/bug.svg" alt="chainsaw" loading="lazy">
+                        <img src="media/bug.svg" alt="chainsaw" loading="lazy">
                         <br>
-                        <img src="media/knife.svg" alt="knife" loading="lazy">
-                        <img src="media/knife.svg" alt="knife" loading="lazy">
-                        <img src="media/knife.svg" alt="knife" loading="lazy">
-                        <img src="media/knife.svg" alt="knife" loading="lazy">
-                        <img src="media/knife.svg" alt="knife" loading="lazy">
-
+                        <img src="media/soldier.svg" alt="knife" loading="lazy">
+                        <img src="media/soldier.svg" alt="knife" loading="lazy">
+                        <img src="media/soldier.svg" alt="knife" loading="lazy">
+                        <img src="media/soldier.svg" alt="knife" loading="lazy">
+                        <img src="media/soldier.svg" alt="knife" loading="lazy">
                     </div>
                     <div class="mb-1 mr-1 btn-group links" role="group" aria-label="button group">
                         <span title="Trailer" type="button" class="btn" data-toggle="collapse" data-target="#trailer9"
@@ -600,17 +594,17 @@
                         turns to a life of crime and chaos in Gotham City while becoming an infamous psychopathic crime
                         figure.</p>
                     <div class="rating">
-                        <img src="media/chainsaw.svg" alt="chainsaw" loading="lazy">
-                        <img src="media/chainsaw.svg" alt="chainsaw" loading="lazy">
-                        <img src="media/chainsaw.svg" alt="chainsaw" loading="lazy">
-                        <img src="media/chainsaw%20(1).svg" alt="chainsaw" loading="lazy">
-                        <img src="media/chainsaw%20(1).svg" alt="chainsaw" loading="lazy">
+                        <img src="media/comedy.svg" alt="knife" loading="lazy">
+                        <img src="media/comedy.svg" alt="knife" loading="lazy">
+                        <img src="media/comedy.svg" alt="knife" loading="lazy">
+                        <img src="media/comedy.svg" alt="knife" loading="lazy">
+                        <img src="media/comedy.svg" alt="knife" loading="lazy">
                         <br>
-                        <img src="media/knife.svg" alt="knife" loading="lazy">
-                        <img src="media/knife.svg" alt="knife" loading="lazy">
-                        <img src="media/knife.svg" alt="knife" loading="lazy">
-                        <img src="media/knife.svg" alt="knife" loading="lazy">
-                        <img src="media/knife.svg" alt="knife" loading="lazy">
+                        <img src="media/medicine.svg" alt="chainsaw" loading="lazy">
+                        <img src="media/medicine%20(1).svg" alt="chainsaw" loading="lazy">
+                        <img src="media/medicine%20(1).svg" alt="chainsaw" loading="lazy">
+                        <img src="media/medicine%20(1).svg" alt="chainsaw" loading="lazy">
+                        <img src="media/medicine%20(1).svg" alt="chainsaw" loading="lazy">
 
                     </div>
                     <div class="mb-1 mr-1 btn-group links" role="group" aria-label="button group">
@@ -1191,6 +1185,9 @@
         </div>
     </div>
 </div>
+<!--
+TODO change the links
+-->
 <!--            CARD 1 - Text Below Image -->
 <!--            <div class="card mb-3">-->
 <!--                <img src="media/evil_dead_2_poster_03.jpg" class="card-img-top" alt="Evil Dead II">-->
@@ -1221,9 +1218,7 @@
 <footer class="text-center text-white bg-dark">
     <p><small>All images belong to their respective owners</small></p>
     <p><small>Danyl Prokofyev, 2019 &#169;</small></p>
-    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
-            integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
-            crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
     <script src="js/main.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
             integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
