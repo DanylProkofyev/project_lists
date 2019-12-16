@@ -103,6 +103,12 @@ ul {
     list-style: none;
 }
 
+.container {
+    max-width: max-content !important;
+    padding: 0 !important;
+    overflow: hidden
+}
+
 /*PRELOADER*/
 #loader-wrapper {
     position: fixed;
@@ -336,7 +342,7 @@ ul {
 }
 
 /*BUTTON CSS*/
-button{
+button {
     position: relative;
     display: inline-block;
     cursor: pointer;
@@ -383,13 +389,13 @@ button.expand {
     margin-left: 1.5rem;
 }
 
-.scrollToTop{
-    width:60px;
+.scrollToTop {
+    width: 60px;
     height: 60px;
-    position:fixed;
-    right:30px;
-    bottom:30px;
-    display:none;
+    position: fixed;
+    right: 30px;
+    bottom: 30px;
+    display: none;
     font-size: 2em;
     z-index: 1001;
 }
@@ -477,7 +483,7 @@ footer * {
 }
 
 /*Extra small devices (portrait phones, less than 576px)*/
-@media (max-width: 575.98px) {
+@media (min-width: 319.98px) and (max-width: 575.98px) {
     /**/
     .rating {
         text-align: center;
@@ -487,26 +493,41 @@ footer * {
 
     .links {
         float: none;
+    }
+
+    .h5 {
+        font-size: 1.25rem !important;
+    }
+
+    button {
+        font-size: 1.3rem !important;
+    }
+
+    .display-4 {
+        padding: 0!important;
     }
 }
 
 /*Small devices (landscape phones, less than 768px)*/
 @media (max-width: 767.98px) {
     /**/
-    .rating {
-        text-align: center;
-        margin: 0 0 5% 0;
-        padding: 0;
-    }
-
-    .links {
-        float: none;
-    }
 }
 
 /*Medium devices (tablets, less than 992px)*/
-@media (max-width: 991.98px) {
+@media (min-width: 576px) and (max-width: 991.98px) {
     /**/
+    .h5 {
+        font-size: 2.25rem !important;
+    }
+
+    button {
+        font-size: 1.7rem !important;
+    }
+
+    .card-text {
+        font-size: 1.55em;
+    }
+
     .rating {
         text-align: center;
         margin: 0 0 5% 0;
@@ -515,12 +536,37 @@ footer * {
 
     .links {
         float: none;
+    }
+
+    .display-4 {
+        font-size: 2.5rem !important;
+    }
+
+    .card-deck .card {
+        flex: inherit !important;
+    }
+
+    .col-sm-6 {
+        flex: inherit !important;
+        max-width: 100% !important;
+    }
+
+    .card-deck .card {
+        margin-bottom: 15px !important;
     }
 }
 
 /*Large devices (desktops, less than 1200px)*/
-@media (max-width: 1199.98px) {
+@media (min-width: 1024px) and (max-width: 1199.98px) {
     /**/
+    .r1 {
+        max-width: 50%;
+        left: 23%;
+    }
+
+    .card-deck .card {
+        margin-bottom: 15px !important;
+    }
 }
 
 /* Extra small devices (portrait phones, less than 576px)*/
@@ -536,14 +582,13 @@ footer * {
 /* Medium devices (tablets, 768px and up)*/
 @media (min-width: 768px) and (max-width: 991.98px) {
     /**/
+
 }
 
 /* Large devices (desktops, 992px and up)*/
 @media (min-width: 992px) and (max-width: 1199.98px) {
     /**/
-}
-
-/* Extra large devices (large desktops, 1200px and up)*/
-@media (min-width: 1200px) {
-    /**/
+    .card-deck .card {
+        flex: 1 0 47% !important;
+    }
 }
