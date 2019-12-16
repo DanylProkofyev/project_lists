@@ -266,7 +266,6 @@ ul {
 }
 
 /*CARDS - IMAGES*/
-
 .card-header, .card-body, .card-img-top {
     background: #0f6674;
     border: 2px solid #0f6674;
@@ -339,6 +338,11 @@ ul {
 
 .card-deck .card {
     background: #0f6674;
+}
+
+.card-deck .card .card-text {
+    height: 200px;
+    overflow-y: scroll;
 }
 
 /*BUTTON CSS*/
@@ -504,7 +508,7 @@ footer * {
     }
 
     .display-4 {
-        padding: 0!important;
+        padding: 0 !important;
     }
 }
 

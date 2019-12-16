@@ -9,6 +9,13 @@ $(window).bind("load", function () {
             overflow: 'auto',
             height: 'auto'
         });
+        AOS.init({
+            duration: 800,
+            easing: 'ease-in-cubic',
+            delay: 50,
+            anchorPlacement: 'top-bottom'
+            // disable: 'mobile'
+        });
     }
 );
 
