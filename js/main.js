@@ -13,7 +13,8 @@ $(window).bind("load", function () {
             duration: 800,
             easing: 'ease-in-cubic',
             delay: 50,
-            anchorPlacement: 'top-bottom'
+            anchorPlacement: 'top-bottom',
+            once: true
             // disable: 'mobile'
         });
     }
